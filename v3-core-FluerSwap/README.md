@@ -1,4 +1,4 @@
-# Uniswap V3
+# FluerSwap V3
 
 This repository contains the core smart contracts for the FluerSwap V3 Protocol.
 
